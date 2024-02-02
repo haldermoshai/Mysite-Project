@@ -1,0 +1,30 @@
+.bio {
+    width: 100%;
+    height: 83vh;
+    display: flex;
+}
+.imgSection {
+    width: 40%;
+    height: 83vh;
+    display: flex;
+
+    align-items: center;
+
+}
+.myImage {
+    width: 40vw;
+    height: 83vh;
+}
+.aboutMe {
+    width: 60%;
+    height: 83vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 40px;
+    font-size: 30px;
+}
+.aboutMe p {
+    font-size: 20px;
+}
